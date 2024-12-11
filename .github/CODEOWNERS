@@ -1,13 +1,14 @@
-# Infrastructure files (DevOps domain)
-*.yml @devops-username
-*.yaml @devops-username
-.github/workflows/* @devops-username
-infrastructure/* @devops-username
-docker/* @devops-username
+Infrastructure files (DevOps domain)
+*.yml @kesava6451
+*.yaml @kesava6451
+.github/workflows/* @kesava6451
+infrastructure/* @kesava6451
+docker/* @kesava6451
+Dockerfile @kesava6451
 
 # Application code (Development domain)
-*.js @dev-username
-*.py @dev-username
-*.java @dev-username
-src/* @dev-username
-tests/* @dev-username
+*.js @aadilsnovasys
+*.py @aadilsnovasys
+*.java @aadilsnovasys
+src/* @aadilsnovasys
+*.html @aadilsnovasys
